@@ -50,7 +50,7 @@ Cypress (basic e2e tests)
 📦 Installation
 
 # 1. Clone the repository
-git clone https://github.com/OksanaKuziv/react-todo-api.git
+git clone https://github.com/OksanaKuziv/todo-list.git
 cd react-todo-api
 
 # 2. Install dependencies
